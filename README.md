@@ -98,3 +98,15 @@ All analysis is fully reproducible and structured to support clear communication
 ---
 
 ## Project Structure
+Pitcher_Run_Prevention/
+│
+├── data/ # Raw and processed datasets
+├── notebooks/ # Analysis notebooks
+├── visuals/ # Exported plots and figures
+├── README.md
+
+
+---
+
+## Notes
+This project is intended to demonstrate analytical approach, reasoning, and communication style consistent with professional baseball analytics roles. All conclusions are based solely on the provided datasets and do not represent real-world player evaluations.
